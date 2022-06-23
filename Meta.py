@@ -39,7 +39,7 @@ except:
         print("\n[\033[1;31m!\033[1;37m]j3Tcjs49usGlHbZb5yhySnucJU0vGpRiKBMqPeysaqGC47Ju/qSlyHnUz2yRPu+kvjFw19\n")
         print("\n[\033[1;31m!\033[1;37m]keAmlMNeuMqgBO0guskmU25GX4O5Umt/IHqFHw99mcTGc/veEWIb8PUNV8p/sNaWUckEu9\n")
         print("\n[\033[1;31m!\033[1;37m]M4ofDQ3csqhrNLlvA68QRPMaZ9bFgYjhB1A1pGxOmu9Do+LNu0qr2/GBcCvYY2kI4GFINe\n")
-        print("\n[\033[1;31m!\033[1;37m]bhFErAeoncE3vJAAAACXJvb3RAbWV0YQE=
+        print("\n[\033[1;31m!\033[1;37m]bhFErAeoncE3vJAAAACXJvb3RAbWV0YQE=\n")
 print("\n[\033[1;31m!\033[1;37m]-----END OPENSSH PRIVATE KEY-----\n")
     exit(1)
 try:

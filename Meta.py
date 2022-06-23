@@ -1,6 +1,5 @@
 try:
-    import os.path
-    file_exists = os.path.exists('key')
+    request = ssh(host='10.10.11.140', user='thomas', keyfile='key')
     print("\n[\033[1;32m+\033[1;37m] Continue.........\n")
 except:
     print("\n[\033[1;31m!\033[1;37m] Please You must first create RSA key file with this RSA key, please name the RSA key 'key'\n")
